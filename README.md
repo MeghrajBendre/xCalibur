@@ -3,4 +3,4 @@
 <h3>Main program: HTTParser.py</h3>
 
 <h3>How to Run:</h3> 
-- <b><i>python HTTParser.py</i></b>
+- Run <b><i>python HTTParser.py</i></b> in terminal. Make sure that weblog.txt is in the same folder.
